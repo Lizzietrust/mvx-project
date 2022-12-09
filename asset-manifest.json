@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mvx-project/static/css/main.e5e9dc05.css",
+    "main.js": "/mvx-project/static/js/main.5b2c529c.js",
+    "static/js/787.214bac21.chunk.js": "/mvx-project/static/js/787.214bac21.chunk.js",
+    "static/media/headerbg.png": "/mvx-project/static/media/headerbg.3a3d9f6358b50ed790e5.png",
+    "static/media/partnerbg.png": "/mvx-project/static/media/partnerbg.a03d6aa97a72eb3dc2ac.png",
+    "static/media/bgchoose.png": "/mvx-project/static/media/bgchoose.ed07c117d29b9fcea64b.png",
+    "static/media/happy-joyous-man.png": "/mvx-project/static/media/happy-joyous-man.db2ee6909d323ca9f2ab.png",
+    "static/media/portrait.png": "/mvx-project/static/media/portrait.1c6b7c63d8045c4b20ba.png",
+    "static/media/ship.png": "/mvx-project/static/media/ship.cb996e7685b8835bad4e.png",
+    "static/media/freight-finance.png": "/mvx-project/static/media/freight-finance.4e165a9be73289d6e201.png",
+    "static/media/big-dutchman.png": "/mvx-project/static/media/big-dutchman.4050002bed8318f1edb3.png",
+    "index.html": "/mvx-project/index.html",
+    "main.e5e9dc05.css.map": "/mvx-project/static/css/main.e5e9dc05.css.map",
+    "main.5b2c529c.js.map": "/mvx-project/static/js/main.5b2c529c.js.map",
+    "787.214bac21.chunk.js.map": "/mvx-project/static/js/787.214bac21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e9dc05.css",
+    "static/js/main.5b2c529c.js"
+  ]
+}
