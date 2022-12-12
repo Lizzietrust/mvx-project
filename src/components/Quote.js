@@ -13,46 +13,47 @@ const Quote = () => {
                 <div className="form-wrap">
                     <div className="left-form">
                         <div className="email-input">
-                            <label htmlFor="email">Email</label>
-                            <input type="text" name="" id="" placeholder="Enter email address"/>
+                            <label>Email</label>
+                            <input type="text" name="" id="" placeholder="Enter email address" className="input"/>
                         </div>
                         <div className="select">
-                            <label htmlFor="">Mode of Shipment</label>
-                            <select name="" id="">
+                            <label>Mode of Shipment</label>
+                            <select name="" id="" className="sel">
                                 <option value="">Select mode</option>
                             </select>
                         </div>
                         <div className="shipment-input">
-                            <label htmlFor="email">Shipment Origin</label>
-                            <input type="text" name="" id="" placeholder="Search location"/>
+                            <label>Shipment Origin</label>
+                            <input type="text" name="" id="" placeholder="Search location" className="input"/>
                         </div>
                         <div className="date-input">
-                            <label htmlFor="email">Pickup Date</label>
-                            <input type="text" name="" id="" placeholder="Select date"/>
+                            <label>Pickup Date</label>
+                            <input type="text" name="" id="" placeholder="Select date" className="input"/>
                         </div>
                     </div>
                     <div className="right-form">
                         <div className="mobile-input">
-                            <label htmlFor="email">Mobile</label>
-                            <select name="" id="">
-                                <option value="">+234</option>
-                            </select>
-                            <div className="margin"></div>
-                            <input type="text" name="" id="" placeholder="Mobile"/>
+                            <label>Mobile</label>
+                            <div className="mob-form">
+                                <select name="" id="">
+                                    <option value="">+234</option>
+                                </select>
+                                <input type="text" name="" id="" placeholder="Mobile"/>
+                            </div>
                         </div>
                         <div className="select">
-                            <label htmlFor="">How do  you want to Ship?</label>
-                            <select name="" id="">
+                            <label>How do  you want to Ship?</label>
+                            <select name="" id="" className="sel">
                                 <option value="">Select service type</option>
                             </select>
                         </div>
                         <div className="shipment-input">
-                            <label htmlFor="email">Shipment Destination</label>
-                            <input type="text" name="" id="" placeholder="Search location"/>
+                            <label>Shipment Destination</label>
+                            <input type="text" name="" id="" placeholder="Search location" className="input"/>
                         </div>
                         <div className="select">
-                            <label htmlFor="">What are you Shipping?</label>
-                            <select name="" id="">
+                            <label>What are you Shipping?</label>
+                            <select name="" id="" className="sel">
                                 <option value="">Select type of goods</option>
                             </select>
                         </div>

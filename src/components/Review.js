@@ -18,6 +18,7 @@ const Review = () => {
                  We are highly impressed with MVX services, their relationship managers are extremely 
                  reliable and always available to assist with our shipment. We would recommend MVX anytime.
             </p>
+            <div className="line"></div>
             <div className="info-slide">
                 <div className="info">
                     <div className="name-abbr">BD</div>

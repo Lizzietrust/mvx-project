@@ -6,6 +6,7 @@ import slideRight from "../mvx images/slide-right.png"
 const News = () => {
   return (
     <div className='news'>
+      <div className="news-main">
         <h6 className="news-head">News</h6>
         <h4>MVX in the News</h4>
         <div className="ship">
@@ -17,10 +18,11 @@ const News = () => {
                 <button className="read">Read More...</button>
             </div>
         </div>
-        <div className="ship-slide">
-            <img src={slideLeft} alt="" srcset="" className="slide-left"/>
-            <img src={slideRight} alt="" srcset="" />
-        </div>
+      </div>
+      <div className="ship-slide">
+          <img src={slideLeft} alt="" srcset="" className="slide-left"/>
+          <img src={slideRight} alt="" srcset="" />
+      </div>
     </div>
   )
 }

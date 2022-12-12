@@ -10,7 +10,7 @@ const Services = () => {
   return (
     <div className='services'>
         <h6>Our Services</h6>
-        <h4>We are your all-in-one platform <span>powering</span> 
+        <h4>We are your all-in-one platform <span> powering </span> 
             cross-border trade
         </h4>
         <div className="services-box">
@@ -37,7 +37,7 @@ const Services = () => {
                 </p>
                 <button className="explore">Explore More</button>
             </div>
-            <div className="box">
+            <div className="box box-finance">
                 <div className="box-img">
                     <img src={financing} alt="" />
                 </div>
